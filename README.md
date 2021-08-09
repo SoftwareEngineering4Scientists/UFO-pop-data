@@ -1,6 +1,6 @@
 # :alien::space_invader:👽 UFO sightings! 👽:space_invader::alien:
 
-The National UFO Reporting Center Online Database has been tracking reported UFO sightings dating back to the 1800's and earlier. We will be using this data to complete a number of our homework assignments and uncovering whether or not these sightings seem credible.
+The National UFO Reporting Center Online Database has been tracking reported UFO sightings dating back to the 1800's and earlier. We will be using this data to complete a number of our homework assignments to better understand how UFO sightings are distributed and how these sightings have changed over time.
 
 The data contained in this repo consists of two files:
 * `ufo_sightings.csv`: the complete UFO sightings database, in CSV format 
