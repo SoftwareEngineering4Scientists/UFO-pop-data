@@ -5,5 +5,5 @@ The National UFO Reporting Center Online Database has been tracking reported UFO
 The data contained in this repo consists of two files:
 * `ufo_sightings.csv`: the complete UFO sightings database, in CSV format 
 (source: [NUFORC](http://www.nuforc.org/index.html))
-* `apportionments.csv`: This file contains census and population density information from all states dating back to 1900 (source: [US Census Bureau](https://www.census.gov/data/tables/time-series/dec/density-data-text.html))
+* `apportionments.csv`: Population and density information from all US states dating back to 1900 (source: [US Census Bureau](https://www.census.gov/data/tables/time-series/dec/density-data-text.html))
 
